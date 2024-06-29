@@ -1,2 +1,14 @@
 # BonBon_Mpf
-Kelompok 6 2602084905 - Richard Dave Teherag 2602119392 - Reinardus Ariel Joan Anandika 2602087535 - Vincent Andrean 2602085340 - Darren Lau 2602079520 - Griffth Lay. 
+Kelompok 6 
+
+2602084905 - Richard Dave Teherag
+2602119392 - Reinardus Ariel Joan Anandika 
+2602087535 - Vincent Andrean 
+2602085340 - Darren Lau 
+2602079520 - Griffth Lay
+
+Aplikasi ini bernama BonBon yang merupakan suatu E-Commerc yang menyediakan sayur dan buah yang dapat membuat user merasakan sensasi yang berbeda saat menggunakannya. Di era ini kegiatan membeli barang sering kali dilakukan secara online karena adanya kemudahan, tetapi beberapa konsumen takut dalam melakukan pembelian sayur atau buah melalui online karena adanya kemungkinan buah yang busuk, tidak sesuai, dan lain-lain. Maka dari itu aplikasi kami hadir untuk membantu user dalam melakukan transaksi buah dan sayur secara online dengan adanya fitur 3d view.
+
+Home Page:Berisikan alamat tujuan yang dapat langsung untuk pengiriman dari layanan ini, kemudian user juga dapat melihat history pembelian dan melakukan pengisian uang sehingga user dapat langsung melakukan pembayaran di dalam aplikasi, lalu user dapat memilih mau mencari sayur atau buah terlebih dahulu melalui kategori, dan juga apabila user kebingungan dalam mengolah sayur aplikasi ini dapat menyarankan melalui resep yang berbeda di tiap harinya. Fruit and vagetable Page: berisikan macam-macam sayur dan buah yang dapat dibeli dalam page ini juga dapat melihat kedalam dan menunjukkan view 3d aplikasi buah yang akan membuat user tertarik dalam menggunakan aplikasi ini. 3D View:User dapat melihat secara langsung tampilan 3d dari buah dan sayuran, nilai tambah dari fitur ini adalah user dapat mencoba dan tertarik dalam fitur ini, lalu lama kelamaan akan nyaman dan menjadikan aplikasi ini sebagai aplikasi sehari-hari. My Cart page:Berisikan alamat pengiriman user, user juga bebas memilih mau melakukan pengantaran cepat atau biasa, kalau cepat akan dikenakan sedikit biaya, dan juga user dapat melihat kembali apa saja yang sudah user beli. Transaction History:User dapat melihat apa saja yang telah user tersebut beli. My Profile:Berisikan seting akun ataupun jika user ingin mengganti alamat secara permanen dapat dilakukan di sini, dan juga ada customer services jika ada suatu keluhan yang dialamin user.
+
+Berikut link asset untuk 3d view kami: https://drive.google.com/drive/folders/1-EH4YELnysbzB8_hZx2-jZQVJNw0pleU?usp=drive_link
